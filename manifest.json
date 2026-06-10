@@ -3,7 +3,23 @@
   "name": "Bilibili to Obsidian",
   "version": "0.1.0",
   "minAppVersion": "0.15.0",
-  "description": "从B站视频提取字幕并生成结构化笔记。",
-  "author": "you",
-  "isDesktopOnly": false
+  "description": "Extract subtitles from Bilibili videos and generate structured notes in Obsidian. Supports multi-language AI subtitles, bilingual mode, and YAML frontmatter. 从B站视频提取字幕并生成结构化笔记，支持多语言AI字幕、双语模式。",
+  "author": "Mu-scorpio",
+  "isDesktopOnly": true,
+  "keywords": [
+    "bilibili",
+    "b站",
+    "subtitle",
+    "字幕",
+    "video",
+    "笔记",
+    "note",
+    "clip",
+    "transcript",
+    "transcription",
+    "youtube",
+    "ai subtitle",
+    "bilingual",
+    "双语"
+  ]
 }
