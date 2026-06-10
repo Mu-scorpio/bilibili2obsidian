@@ -1,0 +1,13 @@
+{
+  "name": "bilibili2obsidian",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "node esbuild.mjs",
+    "build": "node esbuild.mjs production"
+  },
+  "devDependencies": {
+    "esbuild": "^0.28.0",
+    "typescript": "^6.0.3"
+  }
+}

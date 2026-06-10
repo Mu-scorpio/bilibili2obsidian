@@ -1,0 +1,9 @@
+node_modules/
+.DS_Store
+*.md
+!README.md
+test-output.md
+bilibili.mjs
+cli.mjs
+fetch_bilibili.mjs
+package-lock.json
